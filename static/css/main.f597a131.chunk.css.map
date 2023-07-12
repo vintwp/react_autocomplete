@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/DropdownList/DropdownList.scss","webpack://src/App.scss"],"names":[],"mappings":"AACE,eACE,cAAe,CADhB,uBAIG,mBAAqB,CCL3B,OACE,YAAa","file":"main.f597a131.chunk.css","sourcesContent":[".dropdown {\n  &-item {\n    cursor: pointer;\n\n    &:hover p {\n      color: red !important;\n    }\n  }\n}\n","iframe {\n  display: none;\n}\n"]}
